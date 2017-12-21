@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 22 00:03:36 IST 2017
+0.baseType=DIRECTORY
+0.base=/home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

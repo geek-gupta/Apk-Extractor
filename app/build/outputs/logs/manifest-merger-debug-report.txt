@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gaurav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f71e4e86a4906f895c5da42171cd32df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/d00c08e48a527b093ef4fb230cdac77d/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:6:22-65
+application
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gaurav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f71e4e86a4906f895c5da42171cd32df/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gaurav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f71e4e86a4906f895c5da42171cd32df/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.codingblocks.apkextractor.activity.MainActivity
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:14:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gaurav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f71e4e86a4906f895c5da42171cd32df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/gaurav/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f71e4e86a4906f895c5da42171cd32df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/d00c08e48a527b093ef4fb230cdac77d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/d00c08e48a527b093ef4fb230cdac77d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		ADDED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gaurav/Desktop/Apk_Extractor/Apk-Extractor/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/d00c08e48a527b093ef4fb230cdac77d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/d00c08e48a527b093ef4fb230cdac77d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/940eb17a867c7e294796cf2df13f4b02/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/ecdcbd97bf75ae0ad805f5c64c0b3448/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/83c62967195066438b0f2f45c22ce9d7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/ff44b3f573ad23ab5453b838bd924614/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a1fdb96d98a02785dca9d8487dfed3aa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c7d311805a302b129676695850faf780/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/317bf586f75385d6025a896b4fda750d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/77b4badcf4cea811abc303280f1efd50/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/gaurav/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e24fdd721462bf057825ed4e67177900/AndroidManifest.xml:26:9-47
